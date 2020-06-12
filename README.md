@@ -1,2 +1,2 @@
 # 0612TEST
-Deajin Univ HW
+안녕하세요 Hello world!
